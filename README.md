@@ -4,7 +4,7 @@ I wanted to try post-quantum cryptography in a real project, so I built a multip
 
 You can play solo or online with up to 5 friends using a room code or an invite link. Works on desktop and mobile, and in English and Finnish.
 
-**Play:** https://andrewb1998.github.io/yatzy/
+**Play:** https://andrewb1998.github.io/pqc-yatzy/
 
 ## How it works
 
