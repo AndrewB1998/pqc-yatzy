@@ -36,7 +36,7 @@
   const db = getDatabase(app);
   const activeJoins = {};
 
-  // Secure Anonymous Authentication
+  // Secure Anonymous Authentications
   window.authReady = new Promise((resolve) => {
     let settled = false;
     const done = (u) => { if (!settled) { settled = true; resolve(u); } };
